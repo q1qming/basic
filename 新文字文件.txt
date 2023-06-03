@@ -8,3 +8,8 @@ git remote add origin https://github.com/q1qming/basic.git
 git push origin master
 
 git push origin -u master
+
+
+git add . 
+git commit -m "4"
+git push
