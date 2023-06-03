@@ -1,0 +1,10 @@
+git add .
+git commit -m "first"
+git status
+git log
+
+git remote
+git remote add origin https://github.com/q1qming/basic.git
+git push origin master
+
+git push origin -u master
